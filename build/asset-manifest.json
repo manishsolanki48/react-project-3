@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38996757.css",
+    "main.js": "/static/js/main.66515ef8.js",
+    "static/js/787.7b63f85e.chunk.js": "/static/js/787.7b63f85e.chunk.js",
+    "static/media/production-section-image.png": "/static/media/production-section-image.0e1376d6ca0bca071b1e.png",
+    "static/media/service-image.png": "/static/media/service-image.1afbd7ba996b87bee600.png",
+    "static/media/aboutUS-image.png": "/static/media/aboutUS-image.038e6965dee9c706e7c5.png",
+    "static/media/blog-section-image.png": "/static/media/blog-section-image.8f8f79ad30d7bb234394.png",
+    "static/media/promo-image.png": "/static/media/promo-image.cf234a511af7b4d63bad.png",
+    "static/media/banner-image.png": "/static/media/banner-image.78a44ec74211cb380061.png",
+    "static/media/banner-mobile-image1.png": "/static/media/banner-mobile-image1.3cccb5948991ddd99a49.png",
+    "static/media/blog-section-background.png": "/static/media/blog-section-background.b23aee66c15dba4ee9bf.png",
+    "static/media/banner-mobile-image2.png": "/static/media/banner-mobile-image2.e89b6c24fd7c7c628e79.png",
+    "index.html": "/index.html",
+    "main.38996757.css.map": "/static/css/main.38996757.css.map",
+    "main.66515ef8.js.map": "/static/js/main.66515ef8.js.map",
+    "787.7b63f85e.chunk.js.map": "/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38996757.css",
+    "static/js/main.66515ef8.js"
+  ]
+}
